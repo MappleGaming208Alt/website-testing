@@ -1,7 +1,6 @@
 <p align="center">
    ✨ It's not really a secret, the website is mostly written with GPT ✨
 </p>
-<img src="./assets/banner-embed-cropped.png" />
 
 # Domains 
 
