@@ -1,0 +1,33 @@
+[
+        {
+        "name": "template",
+        "pros": ["template", "Template"],
+        "neutral": [],
+        "link": "https://example.com",
+        "linkprotected": "https://example.com/linkvertise/",
+        "cons": [],
+        "buttonText": "FREE",
+        "types": ["unc", "windows"],
+        "unc": "https://www.example.com/unc/",
+        "lastEditedBy": "person",
+        "lastEditedByImage": "assets/verified.png",
+        "glow": "#FBC470",
+        "glowTextHoverColor": "#000000"
+    },
+    {
+        "name": "template",
+        "pros": ["template", "Template"],
+        "neutral": [],
+        "link": "https://example.com",
+        "linkprotected": "https://example.com/linkvertise/",
+        "cons": [],
+        "buttonText": "FREE",
+        "types": ["unc", "windows"],
+        "unc": "https://www.example.com/unc/",
+        "lastEditedBy": "person",
+        "lastEditedByImage": "assets/verified.png",
+        "glow": "#FBC470",
+        "glowTextHoverColor": "#000000"
+    }
+    
+]
